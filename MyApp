@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
             child: Text('Mi nombre es Yolanda Villavicencio Ibáñez')
           ),
         appBar: AppBar(
-        title: Text("Barra"),
+        title: Text("Título"),
         ),
       )
     );
